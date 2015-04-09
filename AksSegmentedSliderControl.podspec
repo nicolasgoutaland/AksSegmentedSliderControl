@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Alok kumar singh" => "aryans00007@gmail.com" }
   s.source       = { :git => "https://github.com/nicolasgoutaland/AksSegmentedSliderControl.git" }
-  s.source_files  = 'Classes/AksSegmentedSliderControl.{h,m}'
+  s.source_files  = 'AksSegmentedSliderControl.{h,m}'
   s.requires_arc = true
 end
